@@ -1,0 +1,6 @@
+spec:
+  destination:
+    server: https://kubernetes.default.svc
+  source:
+    repoURL: https://github.com/GMKBabu777/eks-blueprint-helm-templates.git
+    targetRevision: main
